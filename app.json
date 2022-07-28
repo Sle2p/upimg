@@ -1,0 +1,11 @@
+{
+  "name": "upimg",
+  "description": "upimg",
+  "repository": "https://github.com/Sle2p/upimg",
+  "env": {
+    "PORT": {
+      "value": "80",
+      "required": false
+    }
+  }
+}
